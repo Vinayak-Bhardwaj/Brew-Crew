@@ -1,16 +1,14 @@
 # brew_crew
 
-A new Flutter project.
+A Flutter Application which allows users to authenticate themselves and register their brew preferences.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Motive Behind the Application
+sometimes in a company or in a meeting when many people order their hot beverage together according to individual preferences, they end up getting the wrong one. The reason is that a single person can't remember the individual prefernces of so many people. So this application allows users to register themselves with a proper authentication, then select their brew preference, customize them and later update them. So now the person can simply have a look over the list and end up getting the right coffee for everyone
 
-A few resources to get you started if this is your first Flutter project:
+## Application Screenshots
+![brew1](https://user-images.githubusercontent.com/56202430/110581661-f9bb2f80-8190-11eb-9f55-170df5affa8e.jpeg)
+![brew2](https://user-images.githubusercontent.com/56202430/110581663-faec5c80-8190-11eb-896b-6ccc2af30105.jpeg)
+![brew3](https://user-images.githubusercontent.com/56202430/110581664-faec5c80-8190-11eb-89fe-ee8021e2a8e1.jpeg)
+![brew4](https://user-images.githubusercontent.com/56202430/110581665-fb84f300-8190-11eb-8a17-5219f811ca3a.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
